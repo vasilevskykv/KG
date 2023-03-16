@@ -4,7 +4,7 @@
 - For Windows. / 對於 Windows.
 
 First of all you need to install Python using the / 首先，您需要使用以下命令安裝 Python
-[Official Python Installation Documentation] (https://docs.python.org/3/using/windows.html#windows-full)
+[Official Python Installation Documentation](https://docs.python.org/3/using/windows.html#windows-full)
 
 The Tkinter is there by default / 默認情況下 Tkinter 在那裡
 
