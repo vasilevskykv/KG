@@ -1,4 +1,8 @@
 # Repository with Computer Graphic Labs
+Here is the Repository with templates for Compurter Graphic labs.
+
+這是帶有計算機圖形實驗室模板的存儲庫.
+
 
 # Install necessary libraries and run LR2
 - For Windows. / 對於 Windows.
