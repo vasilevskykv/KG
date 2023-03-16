@@ -19,6 +19,7 @@ Finally, run main.py / 最後，運行 main.py
 ```
 
 - For Ubuntu / 對於 Ubuntu
+
 Check python version: / 檢查 python 版本:
 ```{r, engine='bash', count_lines}
  python --version
