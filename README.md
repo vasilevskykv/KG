@@ -6,7 +6,7 @@ Here is the Repository with templates for Compurter Graphic labs.
 
 ## Install necessary libraries and run LR2
 
-### - For Windows. / 對於 Windows.
+### For Windows. / 對於 Windows.
 
 First of all you need to install Python using / 首先，您需要使用安裝 Python
 
@@ -24,7 +24,7 @@ Finally, run main.py / 最後，運行 main.py
  python main.py
 ```
 
-### - For Ubuntu / 對於 Ubuntu
+### For Ubuntu / 對於 Ubuntu
 
 Check python version: / 檢查 python 版本:
 ```{r, engine='bash', count_lines}
