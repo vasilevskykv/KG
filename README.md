@@ -16,7 +16,7 @@ The Tkinter is there by default / 默認情況下 Tkinter 在那裡
 
 Next you need to copy files from the repository / 接下來，您需要從存儲庫中復製文件
 ```{r, engine='bash', count_lines}
- git clone https://github.com/vasilevskykv/KG.git)
+ git clone https://github.com/vasilevskykv/KG.git
 ```
 
 Finally, run main.py / 最後，運行 main.py
@@ -44,7 +44,7 @@ Install Tkinter: / 安裝 Tkinter:
 ```
 Next you need to copy files from the repository / 接下來，您需要從存儲庫中復製文件
 ```{r, engine='bash', count_lines}
- git clone https://github.com/vasilevskykv/KG.git)
+ git clone https://github.com/vasilevskykv/KG.git
 ```
 Finally, run main.py / 最後，運行 main.py
 ```{r, engine='bash', count_lines}
