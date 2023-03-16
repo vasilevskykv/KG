@@ -3,8 +3,9 @@
 # Install necessary libraries and run LR2
 - For Windows. / 對於 Windows.
 
-First of all you need to install Python using the / 首先，您需要使用以下命令安裝 Python
-[Official Python Installation Documentation](https://docs.python.org/3/using/windows.html#windows-full)
+First of all you need to install Python using / 首先，您需要使用安裝 Python
+
+[Official Python Installation Documentation / 官方 Python 安裝文檔](https://docs.python.org/3/using/windows.html#windows-full)
 
 The Tkinter is there by default / 默認情況下 Tkinter 在那裡
 
