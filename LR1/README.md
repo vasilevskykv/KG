@@ -6,4 +6,4 @@
 ##
 ## $$\color{blue} {Run:}$$  
 ##
-### *Execute* **index.html** *from the folder* **LR1**
+### *Execute*  **index.html**  *from the folder*  **LR1**
