@@ -1,4 +1,4 @@
-## Install necessary libraries and run LR2
+## Install necessary libraries and run LR3
 
 ### For Windows. / 對於 Windows.
 
