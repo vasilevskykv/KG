@@ -2,8 +2,8 @@
 ##
 ## $$\color{blue} {Download\ from\ github:}$$  
 ##
-### **git clone ht<span>tps://github.com/vasilevskykv/KG_LR1.git**
+### **git clone ht<span>tps://github.com/vasilevskykv/KG.git**
 ##
 ## $$\color{blue} {Run:}$$  
 ##
-### *Execute* **index.html**
+### *Execute* **index.html** *from the folder* **LR1**
