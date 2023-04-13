@@ -1,4 +1,4 @@
-## Install necessary libraries and run LR2
+## Install necessary libraries and run LR4
 
 ### For Windows. / 對於 Windows.
 
@@ -13,14 +13,19 @@ Next you need to copy files from the repository / 接下來，您需要從存儲
  git clone https://github.com/vasilevskykv/KG.git
 ```
 
-Then you need to open LR3 folder and make necessary installations / 然後你需要打開 LR3 文件夾並進行必要的安裝
+Then you need to open LR4 folder and make necessary installations / 然後你需要打開 LR3 文件夾並進行必要的安裝
 
 Install opencv: / 安裝 opencv:
 ```{r, engine='bash', count_lines}
  pip install opencv-python
 ```
 
-Finally, run main.py from LR3 folder / 最後，運行 main.py 從 LR3 文件夾
+Install matplotlib: / 安裝 opencv:
+```{r, engine='bash', count_lines}
+ pip install matplotlib
+```
+
+Finally, run main.py from LR4 folder / 最後，運行 main.py 從 LR3 文件夾
 ```{r, engine='bash', count_lines}
  python main.py
 ```
@@ -47,11 +52,17 @@ Install opencv: / 安裝 opencv:
 ```{r, engine='bash', count_lines}
  pip install opencv-python
 ```
+
+Install matplotlib: / 安裝 matplotlib:
+```{r, engine='bash', count_lines}
+ pip install matplotlib
+```
+
 Next you need to copy files from the repository / 接下來，您需要從存儲庫中復製文件
 ```{r, engine='bash', count_lines}
  git clone https://github.com/vasilevskykv/KG.git
 ```
-Finally, run main.py from LR3 folder / 最後，運行 main.py 從 LR3 文件夾
+Finally, run main.py from LR4 folder / 最後，運行 main.py 從 LR3 文件夾
 ```{r, engine='bash', count_lines}
  python main.py
  ```
